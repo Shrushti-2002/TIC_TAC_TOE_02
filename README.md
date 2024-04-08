@@ -10,7 +10,7 @@ Steps :-
 
 5. Implement Game Logic: Write functions to handle player turns, check for a winner, and update the game board accordingly.
 
-6.Integrate the GUI with Game Logic: Bind events to the GUI elements to trigger the game logic functions when the user interacts with the game board.
+6. Integrate the GUI with Game Logic: Bind events to the GUI elements to trigger the game logic functions when the user interacts with the game board.
 
 7. Display Game Results: Create functions to display messages when a player wins, loses, or the game ends in a draw.
 
